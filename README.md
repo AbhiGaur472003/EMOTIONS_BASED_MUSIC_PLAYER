@@ -10,3 +10,5 @@ Our Model has two modes one which will recommend on the basis of genre of song a
 
 We use Streamlit for displaying our model as a web application.
 
+
+![image](https://user-images.githubusercontent.com/89082799/179380894-58dc072b-8f6b-4ec7-9e10-e95f976ef988.png)
